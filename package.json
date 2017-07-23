@@ -14,7 +14,7 @@
     "preact",
     "graphql"
   ],
-  "author": "Fredrik Skanberg",
+  "author": "Fredrik Skanberg <skanberg@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/skanberg/preact-graphql/issues"
